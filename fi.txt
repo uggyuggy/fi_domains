@@ -1,2 +1,2 @@
 # .fi domain names (politely) extracted from https://odata.domain.fi on 28Dec2023 15:12 UTC
-test
+test2
