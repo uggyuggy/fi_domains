@@ -101,12 +101,12 @@ https://tieto.traficom.fi/en/datatraficom/open-data?toggle=Fi-domain%20names
 - [x] Write README
 - [x] Add emojis to the README (very important 🚨)
 
-- [ ] Find when (if there one specific) that is updated on the domain.fi server (and run the script at the right time)
+- [x] Find when (if there one specific) that is updated on the domain.fi server (and run the script at the right time)
 
 - [ ] Add more warning notifications in case of script failures
 - [ ] Add more control to guess if something went wrong with script
 - [ ] What happens if the remote server update the list in the middle of my running script (aka `odata.count` we got at the very beginning and used as one control at the end, does not match anymore the number of domains returned   )
-- [ ] Change UserAgent to give clue to the .fi remote server who am I so they could contact me 
+- [x] Change UserAgent to give clue to the .fi remote server who am I so they could contact me 
 - [ ] After I will be confident it's running as expected, possibly informing Jan
 - [ ] ...
 
