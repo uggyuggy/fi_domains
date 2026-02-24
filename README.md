@@ -70,7 +70,7 @@ https://tieto.traficom.fi/en/datatraficom/open-data?toggle=Fi-domain%20names
   - It would defeat the purpose of sharing the fully built list, to prevent the remote server to be overloaded for same purpose.
   - Jan already shared one
 
-- There is around 434 000 domain names (as the time of writing) 
+- There is around 446 800 domain names (as the time of writing) 
 
 - The odata.domain.fi HTTPS server seems to reply a maximum of only 100 domain names per request, which means that the script has to send  ~ 4340 queries one by one to get the full list of domain names. (Each request gives the next offset to be requested)
 - To be nice with the remote server, my script also does pause 1 second between each of the requests. So the script takes a minimum of 4340 seconds (1 h 12 min) to complete. Which seems fine to me for a daily updated list.
@@ -107,6 +107,6 @@ https://tieto.traficom.fi/en/datatraficom/open-data?toggle=Fi-domain%20names
 - [ ] Add more control to guess if something went wrong with script
 - [ ] What happens if the remote server update the list in the middle of my running script (aka `odata.count` we got at the very beginning and used as one control at the end, does not match anymore the number of domains returned   )
 - [x] Change UserAgent to give clue to the .fi remote server who am I so they could contact me 
-- [ ] After I will be confident it's running as expected, possibly informing Jan
+- [x] After I will be confident it's running as expected, possibly informing Jan (issue created on Jan repo about .fi API minor change)
 - [ ] ...
 
