@@ -1,4 +1,4 @@
-# .fi domain names (politely) extracted from https://odata.domain.fi on 19Nov2026 02:41 UTC
+# .fi domain names (politely) extracted from https://odata.domain.fi on 20Nov2026 02:37 UTC
 0-0-outlet.fi.
 0-100.fi.
 0-koodi.fi.
@@ -256,7 +256,6 @@
 10media.fi.
 10minlive.fi.
 10mm.fi.
-10monkeysdigital.fi.
 10myyttiasahkoautoilusta.fi.
 10n.fi.
 10naytto.fi.
@@ -2019,6 +2018,7 @@
 7030digital.fi.
 70cc.fi.
 70luvulla.fi.
+711-casino-fi.fi.
 711-liiga.fi.
 711.fi.
 71108.fi.
@@ -3418,7 +3418,6 @@ aaronkangas.fi.
 aaronlahti.fi.
 aaronpihapalvelut.fi.
 aaropeltoniemi.fi.
-aarosalmenkangas.fi.
 aarosivonen.fi.
 aarotamminen.fi.
 aarotimonen.fi.
@@ -5382,7 +5381,6 @@ addiator.fi.
 addici.fi.
 addictio.fi.
 addictionclinics.fi.
-addictionlink.fi.
 addictivegames.fi.
 addictivemedia.fi.
 addikti.fi.
@@ -5562,6 +5560,7 @@ adexpo.fi.
 adexpress.fi.
 adexsolution.fi.
 adez.fi.
+adezza.fi.
 adf.fi.
 adfactory.fi.
 adfee.fi.
@@ -7551,6 +7550,7 @@ ahs-urakointi.fi.
 ahs.fi.
 ahsahkotyo.fi.
 ahscontrol.fi.
+ahsgarages.fi.
 ahslaki.fi.
 ahslaw.fi.
 ahsolutions.fi.
@@ -8090,6 +8090,7 @@ aifarm.fi.
 aifarma.fi.
 aifiber.fi.
 aifin.fi.
+aifinance.fi.
 aifinland.fi.
 aifintech.fi.
 aifirewall.fi.
@@ -9867,7 +9868,6 @@ aitovire.fi.
 aitovoimailu.fi.
 aitowellbeing.fi.
 aitrade.fi.
-aitrader.fi.
 aitraining.fi.
 aitranskriptio.fi.
 aitranslate.fi.
@@ -10523,6 +10523,7 @@ ajorataturva.fi.
 ajoreskontra.fi.
 ajorompekorjaamo.fi.
 ajoruutu.fi.
+ajos.fi.
 ajoseuranta.fi.
 ajosi.fi.
 ajosillat.fi.
@@ -11167,6 +11168,7 @@ aknackiron.fi.
 akne.fi.
 akneklinikka.fi.
 aknepop.fi.
+aknetohtori.fi.
 aknetwork.fi.
 akniskanen.fi.
 aknormipalvelutoy.fi.
@@ -12030,6 +12032,7 @@ alarm.fi.
 alarma.fi.
 alarmcontrol.fi.
 alarmcontrolalco.fi.
+alarme.fi.
 alarmi.fi.
 alarmia.fi.
 alarmistables.fi.
@@ -13195,7 +13198,6 @@ alkuruoka.fi.
 alkusammutus.fi.
 alkusammutuskalusto.fi.
 alkuseurakunta.fi.
-alkusiren.fi.
 alkusivu.fi.
 alkutaival.fi.
 alkutarkastus.fi.
@@ -14738,6 +14740,7 @@ alviton.fi.
 alvitonoy.fi.
 alvkaannetty.fi.
 alvkansio.fi.
+alvlaskenta.fi.
 alvogen.fi.
 alvoittu.fi.
 alvoittuinvest.fi.
@@ -14863,6 +14866,7 @@ alyteko.fi.
 alyterveys.fi.
 alytukku.fi.
 alytyoterveys.fi.
+alyvalays.fi.
 alyvalo.fi.
 alyvapaapaiva.fi.
 alyvastaaja.fi.
@@ -15224,6 +15228,7 @@ ameibeautycare.fi.
 ameinander.fi.
 ameise-shop.fi.
 ameise.fi.
+amek.fi.
 amekt.fi.
 amelectro.fi.
 amelia.fi.
@@ -18562,6 +18567,7 @@ apexitservices.fi.
 apexjakelu.fi.
 apexmarine.fi.
 apexmotionstudio.fi.
+apexmotors.fi.
 apexnordic.fi.
 apexo.fi.
 apexolab.fi.
@@ -24179,6 +24185,7 @@ asennusuusimaa.fi.
 asennusvalanta.fi.
 asennusvallamo.fi.
 asennusvalli.fi.
+asennusvalmis.fi.
 asennusvalvonta.fi.
 asennusvarjus.fi.
 asennusvarma.fi.
@@ -25776,11 +25783,11 @@ asunnonmyyntitse.fi.
 asunnonomistajat.fi.
 asunnonostajat.fi.
 asunnonostokeskus.fi.
+asunnonostopalvelu.fi.
 asunnonotsonointi.fi.
 asunnontiedot.fi.
 asunnontyhjennys.fi.
 asunnontyhjennyspalvelu.fi.
-asunnonvaihtajat.fi.
 asunnonvaihtokeskus.fi.
 asunnonvakuusarvo.fi.
 asunnonvalitys-espoo.fi.
@@ -28426,7 +28433,6 @@ auroralapland.fi.
 auroralaplandtravel.fi.
 auroralashesandnails.fi.
 auroralcrown.fi.
-auroraleaders.fi.
 auroralehti.fi.
 auroralevi.fi.
 auroraliiga.fi.
@@ -31502,6 +31508,7 @@ avega.fi.
 avegagroup.fi.
 avego.fi.
 avegroup.fi.
+aveii.fi.
 avek.fi.
 aveka.fi.
 avekextra.fi.
@@ -32692,6 +32699,7 @@ azur.fi.
 azura-snacking.fi.
 azura.fi.
 azurair.fi.
+azure-capital.fi.
 azure.fi.
 azureaccounting.fi.
 azurebet.fi.
@@ -36851,7 +36859,6 @@ bestgolf.fi.
 bestgreenworks.fi.
 bestgrip.fi.
 bestguestfinland.fi.
-besthair.fi.
 besthall.fi.
 besthamburgers.fi.
 bestheim.fi.
@@ -37237,6 +37244,7 @@ betonimies.fi.
 betonimurske.fi.
 betoninkovetin.fi.
 betoninkovetus.fi.
+betoninpinnoitus.fi.
 betoninpumppaus.fi.
 betoniohjelmat.fi.
 betonipaalu.fi.
@@ -42251,7 +42259,6 @@ boostercoffee.fi.
 boosterconsulting.fi.
 boosterenergydrink.fi.
 boosteri.fi.
-boosterimies.fi.
 boosterinvestment.fi.
 boosterpower.fi.
 boostespoo.fi.
@@ -45697,7 +45704,6 @@ buuki.fi.
 buukka.fi.
 buukkaa.fi.
 buukkaabandi.fi.
-buukkaamo.fi.
 buukkaus.fi.
 buukkauskone.fi.
 buukkeri.fi.
@@ -48659,7 +48665,6 @@ carviankorjaamo.fi.
 carvision.fi.
 carvista.fi.
 carvistatrucks.fi.
-carvo.fi.
 carvolt.fi.
 carvoltservice.fi.
 carwash.fi.
@@ -50690,6 +50695,7 @@ charlottetilbury.fi.
 charlston.fi.
 charly.fi.
 charm-eu.fi.
+charm-music.fi.
 charm.fi.
 charma.fi.
 charmant.fi.
@@ -52104,7 +52110,6 @@ cityhovi.fi.
 cityhunters.fi.
 cityhuoneisto.fi.
 cityimage.fi.
-cityinabox.fi.
 cityingo.fi.
 cityinnovationlab.fi.
 cityiot2.fi.
@@ -52838,7 +52843,6 @@ clenix.fi.
 clenora.fi.
 clentech.fi.
 clento.fi.
-cleo-betra.fi.
 cleo.fi.
 cleobetra-casino.fi.
 cleobetra.fi.
@@ -52947,7 +52951,6 @@ clickinvest.fi.
 clickit.fi.
 clickitup.fi.
 clickmed.fi.
-clickpari.fi.
 clickparts.fi.
 clickprint.fi.
 clickshoes.fi.
@@ -54862,7 +54865,6 @@ compactfit.fi.
 compaction.fi.
 compactliving.fi.
 compactor.fi.
-compactref.fi.
 compacttube.fi.
 compafen.fi.
 compaid.fi.
@@ -56970,10 +56972,12 @@ craftersoftomorrow.fi.
 craftfinland.fi.
 craftfulness.fi.
 craftgrowft.fi.
+crafthair.fi.
 crafthouse.fi.
 craftimport.fi.
 craftingclub.fi.
 craftingknowledge.fi.
+craftinvest.fi.
 craftmeats.fi.
 craftmentorointi.fi.
 craftmer.fi.
@@ -57294,6 +57298,7 @@ creativetools.fi.
 creativeturku.fi.
 creativevirtues.fi.
 creativevisions.fi.
+creativevoice.fi.
 creativework.fi.
 creativeworkpasma.fi.
 creativexport.fi.
@@ -59863,7 +59868,6 @@ dasos.fi.
 dasoshabitatfoundation.fi.
 dasoshabitatfund.fi.
 dasparturi.fi.
-daspizzico.fi.
 daspro.fi.
 dassl.fi.
 dasso.fi.
@@ -63718,6 +63722,7 @@ digifactory.fi.
 digifamilies.fi.
 digifarm.fi.
 digifast.fi.
+digifiksari.fi.
 digifinland.fi.
 digifix.fi.
 digifon.fi.
@@ -64233,7 +64238,6 @@ digistudio.fi.
 digisuomi.fi.
 digisuostumus.fi.
 digisurffari.fi.
-digisuunnittelu.fi.
 digisweat.fi.
 digisydan.fi.
 digisyke.fi.
@@ -65164,7 +65168,6 @@ disasteri.fi.
 disasterink.fi.
 disc.fi.
 discaajat.fi.
-discaceofsweden.fi.
 discanalyysi.fi.
 discander.fi.
 discart.fi.
@@ -66066,6 +66069,7 @@ dobsom.fi.
 dobusinessnordic.fi.
 doc-power.fi.
 doc.fi.
+doc24.fi.
 docapets.fi.
 docare.fi.
 docca.fi.
@@ -71360,6 +71364,7 @@ edupori.fi.
 eduportal.fi.
 edupower.fi.
 eduppopisto.fi.
+edupreneurfellowsinstitute.fi.
 edupro.fi.
 edupsy.fi.
 eduques.fi.
@@ -72759,6 +72764,7 @@ ekachemicals.fi.
 ekacomposite.fi.
 ekaduuni.fi.
 ekafinland.fi.
+ekahau.fi.
 ekahifi.fi.
 ekahinaus.fi.
 ekaide.fi.
@@ -73699,6 +73705,7 @@ elainhoitolamanman.fi.
 elainhoitolasymppis.fi.
 elainhomeopaatti.fi.
 elainiloa.fi.
+elainkanssani.fi.
 elainkanta.fi.
 elainkardiologi.fi.
 elainkauppafunpet.fi.
@@ -73825,8 +73832,6 @@ elainpalvelusoljuen.fi.
 elainpalvelut.fi.
 elainpalvelutilonamme.fi.
 elainpalvelutkajo.fi.
-elainpelastus.fi.
-elainpelastustalo.fi.
 elainpihaparsi.fi.
 elainplaneetta.fi.
 elainpolitiikka.fi.
@@ -77823,6 +77828,7 @@ enersio.fi.
 enersize.fi.
 enersky.fi.
 enersoft.fi.
+enerstem.fi.
 enersys.fi.
 enersyscm.fi.
 enerte.fi.
@@ -77853,7 +77859,6 @@ enestam.fi.
 enet.fi.
 enetek.fi.
 enetel.fi.
-enetem.fi.
 eneto.fi.
 enetron.fi.
 enetsa.fi.
@@ -78213,6 +78218,7 @@ ennituuliaphotography.fi.
 ennivaloisa.fi.
 ennobling.fi.
 ennora.fi.
+ennuapu.fi.
 ennue-studio.fi.
 ennuro.fi.
 ennustaeuribor.fi.
@@ -79824,6 +79830,7 @@ erektioinfo.fi.
 erektiokuntoon.fi.
 erektiolaakari.fi.
 erektiolaakarit.fi.
+erektiotohtori.fi.
 erektiovarmuus.fi.
 erel.fi.
 erelementti.fi.
@@ -82183,7 +82190,6 @@ etakoutsi.fi.
 etaksikortti.fi.
 etaksikorttiplus.fi.
 etakuntoutus.fi.
-etal24.fi.
 etalaakari.fi.
 etalaakarille.fi.
 etalaakaripalvelu.fi.
@@ -84492,6 +84498,7 @@ evifin.fi.
 evify.fi.
 evigate.fi.
 eviite.fi.
+eviivo.fi.
 evijarvenapteekki.fi.
 evijarvenautohuolto.fi.
 evijarvenhelluntaiseurakunta.fi.
@@ -87215,6 +87222,7 @@ fbconsulting.fi.
 fbcs.fi.
 fbcturku.fi.
 fbd.fi.
+fbdevelopment.fi.
 fbet.fi.
 fbf.fi.
 fbfactor.fi.
@@ -88122,6 +88130,7 @@ feora.fi.
 feosuomi.fi.
 feox.fi.
 fep.fi.
+fepdevelopment.fi.
 fepowertools.fi.
 feprog.fi.
 fer.fi.
@@ -89832,7 +89841,6 @@ finatinvest.fi.
 finatop.fi.
 finatte.fi.
 finatura.fi.
-finatv-trading.fi.
 finau.fi.
 finaudit.fi.
 finavara.fi.
@@ -96463,7 +96471,6 @@ fotograf.fi.
 fotografikeremma.fi.
 fotografjessicalindgren.fi.
 fotografmalin.fi.
-fotogrammi.fi.
 fotohakala.fi.
 fotohakunila.fi.
 fotohellas.fi.
@@ -96580,6 +96587,7 @@ foundations.fi.
 foundayo.fi.
 foundel.fi.
 founder.fi.
+founderit.fi.
 foundermedia.fi.
 founderofficeclub.fi.
 founderofficehouse.fi.
@@ -99268,6 +99276,7 @@ fya.fi.
 fyber.fi.
 fyc.fi.
 fyco.fi.
+fydex.fi.
 fye.fi.
 fyffe.fi.
 fygge.fi.
@@ -99316,6 +99325,8 @@ fyrk.fi.
 fyrkantig.fi.
 fyrkfinance.fi.
 fyrkio.fi.
+fyrkka-kasino-fi.fi.
+fyrkkakasino-fi.fi.
 fyrkkas.fi.
 fyrklover-invest.fi.
 fyrklovern.fi.
@@ -99476,7 +99487,6 @@ fysioinnostus.fi.
 fysiojaakkola.fi.
 fysiojafaskia.fi.
 fysiojaluonto.fi.
-fysiojanijaatinen.fi.
 fysiojarviseutu.fi.
 fysiojj.fi.
 fysiojohanna.fi.
@@ -100024,6 +100034,7 @@ gabriel1763.fi.
 gabriela.fi.
 gabrielle.fi.
 gabro.fi.
+gabseo.fi.
 gac.fi.
 gacgroup.fi.
 gachapon.fi.
@@ -101049,7 +101060,6 @@ gcm.fi.
 gcmarket.fi.
 gcmaterials.fi.
 gcmi.fi.
-gcmkonsultointi.fi.
 gcnettisivut.fi.
 gco.fi.
 gcom.fi.
@@ -101773,7 +101783,6 @@ geoshop.fi.
 geosite.fi.
 geosolutions.fi.
 geost.fi.
-geosto.fi.
 geosuunnittelu.fi.
 geosynt.fi.
 geosyntec.fi.
@@ -102756,7 +102765,6 @@ glasspoint.fi.
 glasspro.fi.
 glassresort.fi.
 glassrobots.fi.
-glassroom.fi.
 glasssmart.fi.
 glassweb.fi.
 glastak.fi.
@@ -103735,7 +103743,6 @@ goldenlakevillas.fi.
 goldenlaser.fi.
 goldenlead.fi.
 goldenleaf.fi.
-goldenlife.fi.
 goldenlight.fi.
 goldenlotus.fi.
 goldenmalt.fi.
@@ -103805,6 +103812,7 @@ goldman.fi.
 goldmaster.fi.
 goldmember.fi.
 goldmobil.fi.
+goldmoonclinic.fi.
 goldner-fashion.fi.
 goldner.fi.
 goldnet.fi.
@@ -104075,6 +104083,7 @@ golfvirrat.fi.
 golfx.fi.
 golfxyou.fi.
 golfyard.fi.
+golfzone.fi.
 goliath.fi.
 golife.fi.
 golighter.fi.
@@ -104951,6 +104960,7 @@ granawin-casino.fi.
 granawin.fi.
 granawincasino.fi.
 granawins.fi.
+granbergrakentajat.fi.
 granborg.fi.
 grancon.fi.
 grand-central.fi.
@@ -105020,7 +105030,6 @@ grandpappa.fi.
 grandparfymeri.fi.
 grandpartner.fi.
 grandpermanent.fi.
-grandposthotel.fi.
 grandprix.fi.
 grandprixradio.fi.
 grandrakennus.fi.
@@ -105517,7 +105526,6 @@ greencube.fi.
 greencup.fi.
 greencupnordic.fi.
 greencycling.fi.
-greendata.fi.
 greendays.fi.
 greendeal.fi.
 greendealfund.fi.
@@ -105678,7 +105686,6 @@ greenlight.fi.
 greenlightsalmon.fi.
 greenlilystudio.fi.
 greenline.fi.
-greenlines.fi.
 greenlinetaxi.fi.
 greenlineyachts.fi.
 greenlipsbeauty.fi.
@@ -106017,6 +106024,7 @@ grifkalpine.fi.
 grifkfotboll.fi.
 grifkhockey.fi.
 grifksalibandy.fi.
+grifkshop.fi.
 grifon.fi.
 griillos.fi.
 griino.fi.
@@ -107480,12 +107488,14 @@ haalari-it.fi.
 haalaribileet.fi.
 haalarihuolto.fi.
 haalariit.fi.
+haalarikauppa.fi.
 haalarimerkit.fi.
 haalarimerkitverkosta.fi.
 haalarimerkki.fi.
 haalarimerkkikauppa.fi.
 haalarimerkkitori.fi.
 haalaripesu.fi.
+haalariq.fi.
 haalarit.fi.
 haalarituote.fi.
 haalas.fi.
@@ -108894,6 +108904,7 @@ halkivahanmetsastysyhdistys.fi.
 halko-heikki.fi.
 halkohaava.fi.
 halkoholisti.fi.
+halkojaakko.fi.
 halkojaliiteri.fi.
 halkokangas.fi.
 halkokari.fi.
@@ -108984,7 +108995,6 @@ hallaxhalla.fi.
 hallbarautemobler.fi.
 hallbarhetsveckan.fi.
 hallbartbilagande.fi.
-hallbartdistansarbete.fi.
 hallbartmobilitet.fi.
 hallberg-rassy.fi.
 hallbergrassy.fi.
@@ -117353,6 +117363,7 @@ helsinkisisailma.fi.
 helsinkiskiclub.fi.
 helsinkismart.fi.
 helsinkisoi.fi.
+helsinkisoutuvene.fi.
 helsinkispa.fi.
 helsinkispeyclave.fi.
 helsinkistartup.fi.
@@ -118186,6 +118197,7 @@ hepojoenvuonohevoset.fi.
 hepojoki.fi.
 hepokala.fi.
 hepokullanlampo.fi.
+hepokultakebabpizzeria.fi.
 hepolanratsastajat.fi.
 hepolepola.fi.
 heponet.fi.
@@ -121176,6 +121188,7 @@ himila.fi.
 himla.fi.
 himmaa.fi.
 himmaamo.fi.
+himmapro.fi.
 himmari.fi.
 himmasiivous.fi.
 himmee.fi.
@@ -125151,6 +125164,7 @@ honorhetki.fi.
 honormobiles.fi.
 honostfield.fi.
 honour.fi.
+honourinvest.fi.
 honpumet.fi.
 honsberg.fi.
 honshundssektionen.fi.
@@ -125542,6 +125556,7 @@ hornwork.fi.
 horoskoopit.fi.
 horoskooppi.fi.
 horoskooppiarpa.fi.
+horoskooppimerkit.fi.
 horoskooppini.fi.
 horppy.fi.
 horrific.fi.
@@ -129167,6 +129182,7 @@ hurissalo.fi.
 huritao.fi.
 hurja-analytics.fi.
 hurja.fi.
+hurjaas.fi.
 hurjabarf.fi.
 hurjacreative.fi.
 hurjahosting.fi.
@@ -130486,7 +130502,6 @@ hypetys.fi.
 hypewear.fi.
 hypeworks.fi.
 hypex.fi.
-hypha.fi.
 hyphen.fi.
 hypik.fi.
 hypinno.fi.
@@ -131656,6 +131671,7 @@ iablogi.fi.
 iac-acoustics.fi.
 iac-nordic.fi.
 iac.fi.
+iacacoustics.fi.
 iaccounting.fi.
 iacfinland.fi.
 iaconsulting.fi.
@@ -131736,7 +131752,6 @@ iba.fi.
 ibaco.fi.
 ibafinland.fi.
 ibake.fi.
-ibalance.fi.
 ibamic.fi.
 iban.fi.
 ibanfirst.fi.
@@ -134356,6 +134371,7 @@ ikuinenbaby.fi.
 ikuinenjoulu.fi.
 ikuinenjuhannus.fi.
 ikuinenkivi.fi.
+ikuinenmarraskuu.fi.
 ikuinenperhe.fi.
 ikuinenvappuruka.fi.
 ikuisesti.fi.
@@ -137011,6 +137027,7 @@ inflammationhub.fi.
 inflamove.fi.
 inflectra.fi.
 inflectrasoftware.fi.
+inflou.fi.
 inflow.fi.
 inflowmedia.fi.
 influ-era.fi.
@@ -138040,7 +138057,6 @@ innospin.fi.
 innospirit.fi.
 innosport.fi.
 innosprint.fi.
-innostamisseminaari.fi.
 innostapersonaltrainer.fi.
 innostavaaoppimista.fi.
 innostavadesign.fi.
@@ -139598,6 +139614,7 @@ intravat.fi.
 intravia.fi.
 intrea.fi.
 intrepid.fi.
+intres.fi.
 intress.fi.
 intressebevakningsfullmakt.fi.
 intressi.fi.
@@ -140857,7 +140874,6 @@ isak.fi.
 isakhatanmaa.fi.
 isako.fi.
 isakooy.fi.
-isakry.fi.
 isaksson.fi.
 isakssons.fi.
 isakwargelin.fi.
@@ -142142,6 +142158,7 @@ itamerikortti.fi.
 itamerikoulu.fi.
 itameripaiva.fi.
 itamerirun.fi.
+itamerisoutuvene.fi.
 itamerityres.fi.
 itamoto.fi.
 itampere.fi.
@@ -143972,7 +143989,6 @@ jalkaharmonia.fi.
 jalkahoidotanitae.fi.
 jalkahoitajahangelin.fi.
 jalkahoitajakirsi.fi.
-jalkahoitajamiisu.fi.
 jalkahoitajasanna.fi.
 jalkahoito-jyvaskyla.fi.
 jalkahoitoa.fi.
@@ -148724,6 +148740,7 @@ jmrevents.fi.
 jmroy.fi.
 jms-kuljetus.fi.
 jms-lasertec.fi.
+jmsadvisor.fi.
 jmsahko.fi.
 jmsante.fi.
 jmsautotekniikka.fi.
@@ -148787,7 +148804,6 @@ jmvtech.fi.
 jmvuokraus.fi.
 jmw.fi.
 jmwesterling.fi.
-jmworks.fi.
 jmx.fi.
 jmy1891.fi.
 jmykra.fi.
@@ -149892,6 +149908,7 @@ jokava.fi.
 joke.fi.
 jokelacapital.fi.
 jokelaguitars.fi.
+jokelakofficia.fi.
 jokelan.fi.
 jokelanapteekki.fi.
 jokelanautohuolto.fi.
@@ -152594,6 +152611,7 @@ jubilopaper.fi.
 jubla.fi.
 jublos.fi.
 jubser.fi.
+jubu.fi.
 jubupizza.fi.
 juc.fi.
 juca.fi.
@@ -153497,6 +153515,7 @@ jultek.fi.
 jultomtelappland.fi.
 jultomten.fi.
 julucreative.fi.
+juluhr.fi.
 julvis.fi.
 julyjuly.fi.
 juma.fi.
@@ -155367,6 +155386,7 @@ k-apteekki.fi.
 k-auto.fi.
 k-autokauppa.fi.
 k-autoleasing.fi.
+k-automaalaamo.fi.
 k-autoteipit.fi.
 k-bio.fi.
 k-business.fi.
@@ -155539,6 +155559,7 @@ k-sv.fi.
 k-svy.fi.
 k-systems.fi.
 k-t.fi.
+k-tarnanen.fi.
 k-team.fi.
 k-tech.fi.
 k-test.fi.
@@ -155881,7 +155902,6 @@ kaannospaja.fi.
 kaannospalveluaazet.fi.
 kaannospalveluberry.fi.
 kaannospalveluita.fi.
-kaannospalvelujessicasalo.fi.
 kaannospalvelusalmenkangas.fi.
 kaannosth.fi.
 kaannostoimisto.fi.
@@ -157024,6 +157044,8 @@ kaikue.fi.
 kaikuentertainment.fi.
 kaikuethical.fi.
 kaikufair.fi.
+kaikugeo.fi.
+kaikugeosystems.fi.
 kaikugroup.fi.
 kaikuhealth.fi.
 kaikuhr.fi.
@@ -158007,6 +158029,7 @@ kajoterm.fi.
 kajotrading.fi.
 kajotuotanto.fi.
 kajovillas.fi.
+kajowell.fi.
 kajoworks.fi.
 kajoyhtiot.fi.
 kajoyoga.fi.
@@ -158540,6 +158563,7 @@ kalastusaitta.fi.
 kalastusale.fi.
 kalastusalue.fi.
 kalastusarena.fi.
+kalastusekspertti.fi.
 kalastusetelasavo.fi.
 kalastusforum.fi.
 kalastusinfo.fi.
@@ -158992,6 +159016,7 @@ kallio-forss.fi.
 kallio-koski.fi.
 kallio-kuninkala.fi.
 kallio-lehti.fi.
+kallio-ops.fi.
 kallio-ranta.fi.
 kallio.fi.
 kallioapp.fi.
@@ -159105,6 +159130,7 @@ kalliontila.fi.
 kallionuudetmartat.fi.
 kallionvallilanelakelaiset.fi.
 kallionvihannes.fi.
+kallioops.fi.
 kalliopalvelut.fi.
 kalliopeja.fi.
 kalliopirtti.fi.
@@ -164892,6 +164918,7 @@ kattosilta.fi.
 kattosiltala.fi.
 kattosoinio.fi.
 kattosuoja.fi.
+kattotaituri.fi.
 kattotakuu.fi.
 kattotalkkari.fi.
 kattotalo.fi.
@@ -166178,6 +166205,7 @@ kauppakotiin.fi.
 kauppakotona.fi.
 kauppakumppani.fi.
 kauppakumpu.fi.
+kauppakunto.fi.
 kauppakuusamo.fi.
 kauppakv.fi.
 kauppakyla.fi.
@@ -166396,6 +166424,7 @@ kaupunkiseikkailu.fi.
 kaupunkiseutu.fi.
 kaupunkisivusto.fi.
 kaupunkisoutuvene.fi.
+kaupunkisoutuveneet.fi.
 kaupunkisuunnitteluaktivismi.fi.
 kaupunkitapetti.fi.
 kaupunkitarhaus.fi.
@@ -167114,6 +167143,7 @@ kehamylly.fi.
 kehanautocenter.fi.
 kehanautokatsastus.fi.
 kehanautokoulu.fi.
+kehapiste.fi.
 keharata.fi.
 keharemontit.fi.
 keharengas.fi.
@@ -167368,6 +167398,7 @@ kehrainterior.fi.
 kehrakennus.fi.
 kehralifestyle.fi.
 kehralintu.fi.
+kehraliving.fi.
 kehramedia.fi.
 kehrasaari.fi.
 kehrat.fi.
@@ -167810,6 +167841,7 @@ kekenkelkka.fi.
 kekepaino.fi.
 kekery.fi.
 keketech.fi.
+keketraining.fi.
 kekeworks.fi.
 keki.fi.
 kekihuolto.fi.
@@ -168790,7 +168822,6 @@ kennokauppa.fi.
 kennokosmetiikka.fi.
 kennolounge.fi.
 kennomuovi.fi.
-kennonen.fi.
 kennonpuhdistus.fi.
 kennosto.fi.
 kennot.fi.
@@ -169303,7 +169334,6 @@ kertalaakigroup.fi.
 kertalaakioy.fi.
 kertalaina.fi.
 kertalasku.fi.
-kertalava.fi.
 kertaluotto.fi.
 kertapet.fi.
 kerte-palsina.fi.
@@ -169967,7 +169997,6 @@ kestava.fi.
 kestavaahyvinvointia.fi.
 kestavaaliiketoimintaa.fi.
 kestavaelamantapa.fi.
-kestavaetatyo.fi.
 kestavagastronomia.fi.
 kestavahr.fi.
 kestavaitsenkehitys.fi.
@@ -170798,7 +170827,6 @@ khiforum.fi.
 khik.fi.
 khiment.fi.
 khimoo.fi.
-khinaus.fi.
 khinsinooripalvelut.fi.
 khintelligence.fi.
 khipu.fi.
@@ -171275,6 +171303,7 @@ kielibuusti.fi.
 kieliettan.fi.
 kieliexpertit.fi.
 kieliguru.fi.
+kielijakulttuuri.fi.
 kielijakulttuurihoitotyossa.fi.
 kielijelppi.fi.
 kielikahvila.fi.
@@ -173857,7 +173886,6 @@ kirjapainoprodo.fi.
 kirjapainot.fi.
 kirjapainoteroprint.fi.
 kirjapaja.fi.
-kirjapaketti.fi.
 kirjapalvelu.fi.
 kirjapankkiiri.fi.
 kirjapiiri.fi.
@@ -173892,6 +173920,7 @@ kirjastomedia.fi.
 kirjastometsa.fi.
 kirjastomuseo.fi.
 kirjastonkopiraittila.fi.
+kirjastonpuolustajat.fi.
 kirjastonraitti.fi.
 kirjastopaivat.fi.
 kirjastopaivat2019.fi.
@@ -175001,7 +175030,6 @@ kiuruvedenapteekki.fi.
 kiuruvedenautokatsastus.fi.
 kiuruvedenhelluntaisrk.fi.
 kiuruvedenkokoomus.fi.
-kiuruvedenkonetyo.fi.
 kiuruvedenkotiseutuyhdistys.fi.
 kiuruvedenlukio.fi.
 kiuruvedenmehustamo.fi.
@@ -175575,6 +175603,8 @@ kixit.fi.
 kiy.fi.
 kiyoh.fi.
 kiyomiya.fi.
+kizami.fi.
+kizamirobotics.fi.
 kizik.fi.
 kizlab.fi.
 kizlevy.fi.
@@ -177203,7 +177233,6 @@ kodikas-vuokrakodit.fi.
 kodikas.fi.
 kodikasapp.fi.
 kodikaskotiespoo.fi.
-kodikaslato.fi.
 kodikaslkv.fi.
 kodikasremontit.fi.
 kodikassiivous.fi.
@@ -177545,6 +177574,7 @@ koeppl.fi.
 koer.fi.
 koery.fi.
 koesatakunta.fi.
+koeseikkailu.fi.
 koesivusto.fi.
 koesuomi.fi.
 koetalo.fi.
@@ -178698,7 +178728,6 @@ kokkolanmusiikkiterapia.fi.
 kokkolannahka.fi.
 kokkolanomaishoitajat.fi.
 kokkolanompelukone.fi.
-kokkolanparhaat.fi.
 kokkolanpelikeskus.fi.
 kokkolanpienvarastot.fi.
 kokkolanpikahuolto.fi.
@@ -178980,6 +179009,7 @@ kokouspalveluturku.fi.
 kokouspiste.fi.
 kokouspoukama.fi.
 kokouspulla.fi.
+kokousta.fi.
 kokoustamo.fi.
 kokoustampereella.fi.
 kokoustekniikka.fi.
@@ -179888,6 +179918,7 @@ koneglans.fi.
 konego.fi.
 konegroup.fi.
 konehaalaukset.fi.
+konehaka-ikonen.fi.
 konehaka.fi.
 konehakkuu.fi.
 konehalli.fi.
@@ -180812,7 +180843,6 @@ konnu.fi.
 konnunkeittio.fi.
 konnunkunto.fi.
 konnunsuonbaari.fi.
-kono.fi.
 konostar.fi.
 konrad.fi.
 konradbasso.fi.
@@ -183416,6 +183446,7 @@ kotifeenix.fi.
 kotifiltterit.fi.
 kotifiskarsista.fi.
 kotifit.fi.
+kotifix.fi.
 kotifixari.fi.
 kotifixsolutions.fi.
 kotiflowakatemia.fi.
@@ -183631,7 +183662,6 @@ kotikodesign.fi.
 kotikoiralle.fi.
 kotikoivuinvest.fi.
 kotikokki.fi.
-kotikolkka.fi.
 kotikolmoset.fi.
 kotikolo-webshop.fi.
 kotikolonkotipalvelut.fi.
@@ -188315,6 +188345,7 @@ kukkulanconsulting.fi.
 kukkulanlampopumppu.fi.
 kukkulanpojat.fi.
 kukkulantrading.fi.
+kukkulinnankukkatarha.fi.
 kukkuloops.fi.
 kukkumaki.fi.
 kukkumuu.fi.
@@ -190223,7 +190254,6 @@ kumpusenkyla.fi.
 kumrok.fi.
 kums.fi.
 kumu.fi.
-kumucast.fi.
 kumujalkapallo.fi.
 kumujt.fi.
 kumula.fi.
@@ -191766,6 +191796,7 @@ kupukkagraphite.fi.
 kupura.fi.
 kur.fi.
 kura.fi.
+kuraattori.fi.
 kurajakarva.fi.
 kurajakauha.fi.
 kurakauppalanpirssi.fi.
@@ -195329,6 +195360,7 @@ laakis.fi.
 laakisakatemia.fi.
 laakisnetti.fi.
 laakispolku.fi.
+laakistaktiikka.fi.
 laakistube.fi.
 laakisvalmennus.fi.
 laakityslista.fi.
@@ -199021,7 +199053,6 @@ lamolisana.fi.
 lamonstra.fi.
 lamont.fi.
 lamor.fi.
-lamoragroup.fi.
 lamorrecycling.fi.
 lamorresiclo.fi.
 lamortechnics.fi.
@@ -201960,6 +201991,7 @@ laskuripaja.fi.
 laskurisivut.fi.
 laskurit.fi.
 laskurix.fi.
+laskusahko.fi.
 laskusatama.fi.
 laskuseula.fi.
 laskusi.fi.
@@ -203181,6 +203213,7 @@ laurasulkava.fi.
 laurasundell.fi.
 laurasuojanen.fi.
 lauratestaa.fi.
+lauratesti.fi.
 lauratikka.fi.
 lauratiuraniemi.fi.
 lauratulikorpi.fi.
@@ -203985,6 +204018,7 @@ leadspoint.fi.
 leadstep.fi.
 leadstream.fi.
 leadsum.fi.
+leadterminal.fi.
 leadthebeat.fi.
 leadtrigger.fi.
 leadup.fi.
@@ -206593,6 +206627,7 @@ leppisbungalows.fi.
 leppiscenter.fi.
 leppisonline.fi.
 leppisstore.fi.
+lepplax.fi.
 lepplaxjaktklubb.fi.
 leppo.fi.
 leppoisalepohetki.fi.
@@ -206955,7 +206990,6 @@ levicamp.fi.
 levicamping.fi.
 levichalets.fi.
 levicitysuite.fi.
-levicon.fi.
 levicranberry.fi.
 levida.fi.
 leviday.fi.
@@ -207028,6 +207062,7 @@ levinalppitalot.fi.
 levinapteekki.fi.
 levinaurora.fi.
 levinera.fi.
+levinetti.fi.
 levingielas.fi.
 levinhehku.fi.
 levinhenkireika.fi.
@@ -207764,6 +207799,7 @@ liedoneturengas.fi.
 liedonfrisbeegolfseura.fi.
 liedonfysiokuntoutus.fi.
 liedonhammaspaikka.fi.
+liedonhankinta.fi.
 liedoninnovaatiokampus.fi.
 liedonkalliosora.fi.
 liedonkalustepuusepat.fi.
@@ -208417,6 +208453,7 @@ lihavuusleikkaukset.fi.
 lihavuusleikkaus.fi.
 lihavuusleikkausvalmennus.fi.
 lihavuusliitto.fi.
+lihavuustohtori.fi.
 lihel.fi.
 lihhoolieksasta.fi.
 lihis.fi.
@@ -208891,6 +208928,7 @@ liikkuvaverhoilukorjaamo.fi.
 liikkuvaverhoomo.fi.
 liikkuvuus.fi.
 liikkuvuusanalyysi.fi.
+liikkuvuusharjoittelu-maksut.fi.
 liikkuvuusharjoittelu.fi.
 liikkuvuuslive.fi.
 liikkuvuusohjaaja.fi.
@@ -209054,8 +209092,10 @@ liikuntatilat.fi.
 liikuntatili.fi.
 liikuntatilula.fi.
 liikuntavahti.fi.
+liikuntavaikuttajat.fi.
 liikuntaverkkokurssi.fi.
 liikuntaverkkokurssit.fi.
+liikuntaverkosto.fi.
 liikuntavieteri.fi.
 liikuntavinkit.fi.
 liikuntavirasto.fi.
@@ -209399,6 +209439,7 @@ liljalvv.fi.
 liljamalja.fi.
 liljamettala.fi.
 liljander.fi.
+liljankartano.fi.
 liljanlankakauppa.fi.
 liljannekoti.fi.
 liljanpuutuote.fi.
@@ -210927,6 +210968,7 @@ liten.fi.
 litendev.fi.
 litengroup.fi.
 litenordic.fi.
+litepay.fi.
 literata.fi.
 literatec.fi.
 literos.fi.
@@ -211175,7 +211217,6 @@ livecasinoinfo.fi.
 livecasinosuomi.fi.
 livechat.fi.
 livechatti.fi.
-liveclub.fi.
 livecol.fi.
 livecolor.fi.
 liveconsulting.fi.
@@ -212217,6 +212258,7 @@ log-it.fi.
 log1.fi.
 log45.fi.
 logals.fi.
+logara.fi.
 logate.fi.
 logatesolutions.fi.
 logbag.fi.
@@ -212894,6 +212936,7 @@ loihto.fi.
 loihtu.fi.
 loihusilk.fi.
 loija.fi.
+loijakka.fi.
 loikala.fi.
 loikalla.fi.
 loikansaari.fi.
@@ -215675,6 +215718,7 @@ luftcon.fi.
 luftexpressen.fi.
 luftfuktteknik.fi.
 lufthansa.fi.
+luftig.fi.
 luftkvalitet.fi.
 luftman.fi.
 luftrum.fi.
@@ -216939,7 +216983,6 @@ lunubet-fi.fi.
 lunubetcasino.fi.
 lunula.fi.
 lunvio.fi.
-lunwork.fi.
 lunzo.fi.
 luo.fi.
 luoarkkitehdit.fi.
@@ -217065,7 +217108,6 @@ luominen.fi.
 luomisenliiteri.fi.
 luomispiste.fi.
 luomisvimma.fi.
-luomma.fi.
 luommekysyntaa.fi.
 luomoa-raision.fi.
 luomoa.fi.
@@ -217246,6 +217288,7 @@ luonnonapteekki.fi.
 luonnonaromit.fi.
 luonnonarvo.fi.
 luonnonarvokauppa.fi.
+luonnonarvosaatio.fi.
 luonnonarvot.fi.
 luonnonbetoni.fi.
 luonnoncbd.fi.
@@ -218119,7 +218162,6 @@ lup.fi.
 lupaauttaa.fi.
 lupaava.fi.
 lupahakemus.fi.
-lupahelppi.fi.
 lupajannittaa.fi.
 lupajavalvonta.fi.
 lupajavalvontavirasto.fi.
@@ -218680,6 +218722,7 @@ luxuryworld.fi.
 luxus.fi.
 luxusbeauty.fi.
 luxuscarservice.fi.
+luxuscasa.fi.
 luxusilma.fi.
 luxuskoditlkv.fi.
 luxuslahjat.fi.
@@ -221952,7 +221995,6 @@ magentoverkkokauppa.fi.
 magentur.fi.
 mageos.fi.
 magepro.fi.
-magestock.fi.
 magfed.fi.
 magfedpb.fi.
 maggadu.fi.
@@ -224499,7 +224541,6 @@ mamas4.fi.
 mamasafi.fi.
 mamasan.fi.
 mamasandpapas.fi.
-mamascakescafe.fi.
 mamasclassic.fi.
 mamasclassics.fi.
 mamasdeli.fi.
@@ -225203,6 +225244,7 @@ mantone.fi.
 mantooki.fi.
 mantools.fi.
 mantopused.fi.
+mantra-orkesteri.fi.
 mantra.fi.
 mantrailingfinland.fi.
 mantrailingsuomi.fi.
@@ -226989,7 +227031,6 @@ markuskiili.fi.
 markuskivialho.fi.
 markuskolinen.fi.
 markuskoljonen.fi.
-markuskuisma.fi.
 markuslappalainen.fi.
 markuslauriala.fi.
 markusliisa.fi.
@@ -230235,6 +230276,7 @@ mediacom.fi.
 mediacone.fi.
 mediacontacts.fi.
 mediacraft.fi.
+mediada.fi.
 mediadee.fi.
 mediadelivery.fi.
 mediadesign.fi.
@@ -232104,6 +232146,7 @@ melumysteeripeli.fi.
 meluntorjunta.fi.
 melusuojaus.fi.
 meluton.fi.
+melutongroup.fi.
 melututkimus.fi.
 melvin.fi.
 melvita.fi.
@@ -233441,6 +233484,7 @@ meromarket.fi.
 meromax.fi.
 meromaxmanagement.fi.
 merope.fi.
+meroputali.fi.
 merosenpuoti.fi.
 merosvolatelokuva.fi.
 merox.fi.
@@ -233561,7 +233605,6 @@ mese.fi.
 meseaki.fi.
 meseeks.fi.
 mesekauppa.fi.
-mesenet.fi.
 mesera.fi.
 meserak.fi.
 meseraparts.fi.
@@ -234873,6 +234916,7 @@ metsapalvelutahtari.fi.
 metsapalveluthelminen.fi.
 metsapalvelutpuumalainen.fi.
 metsapalvelutrantala.fi.
+metsapalvelutuohi.fi.
 metsapalvelutuomaala.fi.
 metsapalveluturunen.fi.
 metsapalvelutyonantajat.fi.
@@ -237479,6 +237523,7 @@ milcoa.fi.
 milcon.fi.
 milda.fi.
 mildef.fi.
+mildepot.fi.
 mildh.fi.
 mildison.fi.
 mildola.fi.
@@ -238197,6 +238242,7 @@ mindvision.fi.
 mindvista.fi.
 mindvufness.fi.
 mindwaves.fi.
+mindwellness.fi.
 mindwize.fi.
 mindwork.fi.
 mindworking.fi.
@@ -240759,6 +240805,7 @@ mnmarkkinointi.fi.
 mnn.fi.
 mno.fi.
 mnode.fi.
+mnode3d.fi.
 mnordstromab.fi.
 mnorth.fi.
 mnoy.fi.
@@ -241473,7 +241520,6 @@ mofakult.fi.
 moffeli.fi.
 moffett.fi.
 moffman.fi.
-mofomusic.fi.
 mofoods.fi.
 moft.fi.
 mofu.fi.
@@ -243889,6 +243935,7 @@ move4life.fi.
 movea.fi.
 moveandbreathe.fi.
 moveandcare.fi.
+moveandmind.fi.
 moveat.fi.
 moveauction.fi.
 movebatt.fi.
@@ -249149,7 +249196,6 @@ mypub.fi.
 mypurely-sweet.fi.
 mypurelysweet.fi.
 mypuustelli.fi.
-mypyhajarviseutu.fi.
 myq.fi.
 myqorzo.fi.
 myquadient.fi.
@@ -250773,6 +250819,7 @@ namoda.fi.
 namorada.fi.
 namox.fi.
 nampanoora.fi.
+nampovan.fi.
 namry.fi.
 nams.fi.
 namsbakery.fi.
@@ -254045,6 +254092,7 @@ nettilelu.fi.
 nettilelut.fi.
 nettilemmikki.fi.
 nettili.fi.
+nettiliiga.fi.
 nettiliike.fi.
 nettilinja.fi.
 nettilinssit.fi.
@@ -255000,6 +255048,7 @@ newprint.fi.
 newreko.fi.
 newres.fi.
 newrose.fi.
+newround.fi.
 newroyalindia.fi.
 newrozloviisa.fi.
 newrules.fi.
@@ -255425,7 +255474,6 @@ nfsukitus.fi.
 nfsystems.fi.
 nft-uutiset.fi.
 nft.fi.
-nft24.fi.
 nftalent.fi.
 nftart.fi.
 nftcenter.fi.
@@ -255770,6 +255818,7 @@ niemcowork.fi.
 niemela-autio.fi.
 niemela-laskentatoimisto.fi.
 niemela.fi.
+niemelaholding.fi.
 niemelaind.fi.
 niemelalkv.fi.
 niemelan.fi.
@@ -256660,6 +256709,7 @@ ninninlounaskahvila.fi.
 ninnisaarinen.fi.
 ninniusm.fi.
 ninniversumi.fi.
+ninno.fi.
 ninnujailkka.fi.
 ninnuvisual.fi.
 nino.fi.
@@ -257139,6 +257189,7 @@ njordcollections.fi.
 njordlaw.fi.
 njordpartners.fi.
 njordr.fi.
+njorr.fi.
 njoy.fi.
 njp.fi.
 njr.fi.
@@ -259751,7 +259802,6 @@ nordicremedies.fi.
 nordicren.fi.
 nordicrenewables.fi.
 nordicrengas.fi.
-nordicrent.fi.
 nordicrescuegroup.fi.
 nordicrescuesystem.fi.
 nordicresolutions.fi.
@@ -264854,6 +264904,7 @@ oddspodden.fi.
 oddsportal.fi.
 oddspronto.fi.
 oddvaasa.fi.
+oddvisory.fi.
 oddy.fi.
 oddydigital.fi.
 oddygroup.fi.
@@ -265995,7 +266046,6 @@ oivatulkki.fi.
 oivatuote.fi.
 oivatyo.fi.
 oivauni.fi.
-oivaunivalmennukset.fi.
 oivaus.fi.
 oivavalinta.fi.
 oivaweb.fi.
@@ -266505,7 +266555,6 @@ oldbutnew.fi.
 oldcoachroad.fi.
 oldcoachroadtransporting.fi.
 oldcock.fi.
-oldcoppers.fi.
 oldcraftinspiration.fi.
 olddogs.fi.
 olddurbar.fi.
@@ -269638,6 +269687,7 @@ onnihirvi.fi.
 onnihockey.fi.
 onnihoiva.fi.
 onnihoivapalvelut.fi.
+onniina.fi.
 onniisannointi.fi.
 onnijahelmikarttusensaatio.fi.
 onnijahoiva.fi.
@@ -272237,6 +272287,7 @@ orobailen.fi.
 orobellissimo.fi.
 oroclean.fi.
 orodian.fi.
+orogon.fi.
 oromaa.fi.
 oromassalattiat.fi.
 orona.fi.
@@ -274768,6 +274819,7 @@ oulusouthhydrogenvalley.fi.
 oulusport.fi.
 oulussa.fi.
 oulusta.fi.
+oulustays.fi.
 oulutalenthub.fi.
 oulutaxi.fi.
 ouluteatteri.fi.
@@ -275070,7 +275122,6 @@ outokipu.fi.
 outokoulu.fi.
 outokummunapteekki.fi.
 outokummunenergia.fi.
-outokummunjapolvijarvenseurakunta.fi.
 outokummunjapolvijarvensrk.fi.
 outokummunjhl253.fi.
 outokummunkaupunki.fi.
@@ -277352,6 +277403,7 @@ paivolanpuutarha.fi.
 paivolanvirkistyskoti.fi.
 paivolaoy.fi.
 paivyri.fi.
+paivyri24.fi.
 paivystava.fi.
 paivystavaelainlaakari.fi.
 paivystavahammaslaakari.fi.
@@ -278352,7 +278404,6 @@ pallashotel.fi.
 pallashotelli.fi.
 pallaskaltio.fi.
 pallaskatukaksi.fi.
-pallaskylma.fi.
 pallasmaadoc.fi.
 pallasoja.fi.
 pallasrakennus.fi.
@@ -279221,6 +279272,7 @@ pandum.fi.
 panduro.fi.
 pandurohobby.fi.
 pandym2s.fi.
+pane.fi.
 paneeli.fi.
 paneelikilpailutus.fi.
 paneelioutlet.fi.
@@ -283344,6 +283396,7 @@ pejacon.fi.
 pejatec.fi.
 pejd.fi.
 pejk.fi.
+pejl.fi.
 pek-asennus.fi.
 pek-pohjantahti.fi.
 pek.fi.
@@ -284106,6 +284159,7 @@ pellisclothing.fi.
 pelliset.fi.
 pellista.fi.
 pellit.fi.
+pellithelposti.fi.
 pellitkii.fi.
 pellityshelsinki.fi.
 pellmac.fi.
@@ -284393,6 +284447,7 @@ peltorantaoy.fi.
 peltoriista.fi.
 peltorinneranch.fi.
 peltorobotti.fi.
+peltosaa.fi.
 peltosalmentila.fi.
 peltosalmenvpk.fi.
 peltosellu.fi.
@@ -287635,6 +287690,7 @@ picolux.fi.
 picomr.fi.
 picon.fi.
 picoprep.fi.
+picora.fi.
 picos.fi.
 picoshyvaolo.fi.
 picosun.fi.
@@ -289309,7 +289365,9 @@ pikavuoromaailmanympari.fi.
 pikavuorot.fi.
 pikazo.fi.
 pikazzo.fi.
+pike-casino-fi.fi.
 pikeandperch.fi.
+pikecasino-fi.fi.
 pikecasino.fi.
 pikecon.fi.
 pikedog.fi.
@@ -289902,7 +289960,6 @@ pilviakatemia.fi.
 pilviakku.fi.
 pilviapteekki.fi.
 pilviautomaatio.fi.
-pilvibackup.fi.
 pilvibitti.fi.
 pilvicon.fi.
 pilvienergia.fi.
@@ -291201,6 +291258,7 @@ pirttikyla.fi.
 pirttila.fi.
 pirttilinna.fi.
 pirttimaenyhteismetsa.fi.
+pirttimakikahvila.fi.
 pirttimedia.fi.
 pirttinen.fi.
 pirttiniemenlomakyla.fi.
@@ -293670,7 +293728,6 @@ pms.fi.
 pmsolutions.fi.
 pmsoy.fi.
 pmsry.fi.
-pmsukeva.fi.
 pmt.fi.
 pmtechnic.fi.
 pmtek.fi.
@@ -294723,6 +294780,7 @@ pohjolaviepohjalle.fi.
 pohjonen.fi.
 pohjonengroup.fi.
 pohjosahontila.fi.
+pohjosenpojat.fi.
 pohjus.fi.
 pohjustus.fi.
 pohkivi.fi.
@@ -294973,6 +295031,7 @@ pokerikatsaus.fi.
 pokeriklubi.fi.
 pokerikompassi.fi.
 pokerikuume.fi.
+pokerilehti.fi.
 pokeriliiga.fi.
 pokerilisenssi.fi.
 pokerilisenssit.fi.
@@ -297097,7 +297156,6 @@ porstuakirjastot.fi.
 port.fi.
 porta-arctica.fi.
 portaala.fi.
-portaalilehti.fi.
 portaalit.fi.
 portaanjaojasenvesihuolto.fi.
 portaanpaa.fi.
@@ -297116,7 +297174,6 @@ portaita.fi.
 portal.fi.
 portalbank.fi.
 portalify.fi.
-portally.fi.
 portaloflease.fi.
 portamarina.fi.
 portatour.fi.
@@ -300245,7 +300302,6 @@ prm.fi.
 prmainio.fi.
 prmantyla.fi.
 prmarvila.fi.
-prmestarit.fi.
 prmoy.fi.
 prn-pintatekniikka.fi.
 prn.fi.
@@ -301475,6 +301531,7 @@ prokiro.fi.
 prokirurgia.fi.
 prokitchen.fi.
 prokkari.fi.
+prokkis.fi.
 prokleen.fi.
 proklubi.fi.
 proknasto.fi.
@@ -306976,7 +307033,6 @@ puupajasteela.fi.
 puupakkaus.fi.
 puupakkauskierratys.fi.
 puupala.fi.
-puupalax.fi.
 puupali.fi.
 puupapat.fi.
 puuparoni.fi.
@@ -307045,6 +307101,7 @@ puurinkanala.fi.
 puurinpuutarha.fi.
 puuro.fi.
 puuro3d.fi.
+puurofillari.fi.
 puuroporinat.fi.
 puurox.fi.
 puuru.fi.
@@ -308600,6 +308657,7 @@ qsafe.fi.
 qsail.fi.
 qsantec.fi.
 qscala.fi.
+qscale.fi.
 qscgroup.fi.
 qseats.fi.
 qsec.fi.
@@ -309693,6 +309751,7 @@ radadel.fi.
 radaflex.fi.
 radai.fi.
 radalla.fi.
+radalla50.fi.
 radallafestivaali.fi.
 radallaresort.fi.
 radalle.fi.
@@ -310409,7 +310468,6 @@ rahtarikeskus.fi.
 rahtarit.fi.
 rahti-kaleva.fi.
 rahti-kujala.fi.
-rahti-suomela.fi.
 rahtia.fi.
 rahtialatalo.fi.
 rahtiapp.fi.
@@ -311355,6 +311413,7 @@ rakennushallikainen.fi.
 rakennushallitus.fi.
 rakennushamalainen.fi.
 rakennushankemakela.fi.
+rakennushankkeet.fi.
 rakennushannula.fi.
 rakennusharka.fi.
 rakennusharrivikman.fi.
@@ -311991,7 +312050,6 @@ rakennuspalvelusinisalo.fi.
 rakennuspalvelusipila.fi.
 rakennuspalvelusippola.fi.
 rakennuspalvelusironen.fi.
-rakennuspalvelusiukola.fi.
 rakennuspalvelusmk.fi.
 rakennuspalvelusoininen.fi.
 rakennuspalvelusoukko.fi.
@@ -316549,6 +316607,7 @@ rayvebarefoot.fi.
 rayvip.fi.
 rayvow.fi.
 rayx.fi.
+razilla.fi.
 razome.fi.
 razorbacks.fi.
 razzmatazz.fi.
@@ -316778,7 +316837,6 @@ reachforchange.fi.
 reachlaw.fi.
 reachlawenv.fi.
 reachlink.fi.
-reachly.fi.
 reachmee.fi.
 reachout.fi.
 reachtalent.fi.
@@ -320749,7 +320807,6 @@ reseptinetti.fi.
 reseptinurkka.fi.
 reseptinuusiminen.fi.
 reseptinuusinta.fi.
-reseptiohje.fi.
 reseptipalvelu.fi.
 reseptipalvelut.fi.
 reseptipiste.fi.
@@ -320761,6 +320818,7 @@ reseptirobotti.fi.
 reseptishop.fi.
 reseptisuomi.fi.
 reseptit.fi.
+reseptitohtori.fi.
 reseptivihko.fi.
 reseptivinkit.fi.
 reseptori.fi.
@@ -321733,7 +321791,6 @@ reverse-osmosis.fi.
 reverse.fi.
 reversec.fi.
 reversedomain.fi.
-reversedomainhijacking.fi.
 reversely.fi.
 reverstas.fi.
 reversus.fi.
@@ -322256,6 +322313,7 @@ rialiitto.fi.
 rialinna.fi.
 rialto.fi.
 riamajat.fi.
+riame.fi.
 riamoneytransfer.fi.
 riamoneytransfers.fi.
 rian.fi.
@@ -323621,7 +323679,6 @@ riskigroup.fi.
 riskihallinta.fi.
 riskihelppi.fi.
 riskihenkivakuutus.fi.
-riskijaoppiminen.fi.
 riskikompassi.fi.
 riskikoulutus.fi.
 riskikypsyys.fi.
@@ -326144,7 +326201,6 @@ rooflvv.fi.
 roofman.fi.
 roofmarket.fi.
 roofmasters.fi.
-roofnest.fi.
 roofrem.fi.
 roofsafety.fi.
 roofspray.fi.
@@ -327587,7 +327643,6 @@ rrkotipalvelua.fi.
 rrl.fi.
 rrlvipalvelut.fi.
 rrm-group.fi.
-rrm.fi.
 rrmaanrakennus.fi.
 rrmessut.fi.
 rrmgroup.fi.
@@ -327751,6 +327806,7 @@ rslt.fi.
 rsly.fi.
 rsm.fi.
 rsmart.fi.
+rsmbusiness.fi.
 rsmfinland.fi.
 rsmotorsport.fi.
 rsmt.fi.
@@ -332899,6 +332955,7 @@ sailab.fi.
 sailaharkkidesign.fi.
 sailair.fi.
 sailakemppi.fi.
+sailandgo.fi.
 sailandplay.fi.
 sailanevanlahti.fi.
 sailanka.fi.
@@ -332994,6 +333051,7 @@ saimaaareena.fi.
 saimaabikes.fi.
 saimaaboating.fi.
 saimaabrewingco.fi.
+saimaabybike.fi.
 saimaacafe.fi.
 saimaacanoeing.fi.
 saimaacapital.fi.
@@ -335259,6 +335317,7 @@ saminet.fi.
 saminetti.fi.
 saminhierontapalvelu.fi.
 samini.fi.
+saminik.fi.
 saminjasenkorjaamo.fi.
 saminkauppa.fi.
 saminkoneurakointi.fi.
@@ -335469,7 +335528,6 @@ samoaindustrial.fi.
 samoani.fi.
 samoastories.fi.
 samoha.fi.
-samoilijat.fi.
 samoillamitoilla.fi.
 samoillasilmilla.fi.
 samoilu.fi.
@@ -338375,6 +338433,7 @@ satosiiri.fi.
 satotech.fi.
 satotieto.fi.
 satotukku.fi.
+satovuosi.fi.
 satoy.fi.
 satp.fi.
 satpa.fi.
@@ -339836,6 +339895,7 @@ savpk.fi.
 savr.fi.
 savrahoitus.fi.
 savrakennus.fi.
+savrento.fi.
 savsea.fi.
 savtech.fi.
 savu.fi.
@@ -341729,6 +341789,7 @@ secondchoice.fi.
 secondcolors.fi.
 secondcycle.fi.
 seconddisc.fi.
+secondfoundation.fi.
 secondfriend.fi.
 secondhand.fi.
 secondhandfinland.fi.
@@ -347100,6 +347161,7 @@ siistisaneeraus.fi.
 siistisauna.fi.
 siistisiivous.fi.
 siistisiti.fi.
+siistisohva.fi.
 siistisoma.fi.
 siistit.fi.
 siistitalo.fi.
@@ -347182,6 +347244,7 @@ siivousaine.fi.
 siivousaineet.fi.
 siivousala.fi.
 siivousammat.fi.
+siivousapuarjamari.fi.
 siivousarkeen.fi.
 siivousasema.fi.
 siivousassat.fi.
@@ -348803,6 +348866,7 @@ sinikalliontie7.fi.
 sinikanhoitola.fi.
 sinikanhoiva.fi.
 sinikankukkakauppa.fi.
+sinikanluona.fi.
 sinikanpuujamuu.fi.
 sinikasvis.fi.
 sinikekalainen.fi.
@@ -349141,7 +349205,6 @@ sinunvuoksi.fi.
 sinunvuoro.fi.
 sinunvuorosi.fi.
 sinunvuorosiloistaa.fi.
-sinunvuotesi.fi.
 sinunyrityksesi.fi.
 sinut.fi.
 sinutral.fi.
@@ -349814,6 +349877,7 @@ sisuallas.fi.
 sisualliance.fi.
 sisuapteekit.fi.
 sisuapteekki.fi.
+sisuathlete.fi.
 sisuauto.fi.
 sisuautotrucks.fi.
 sisuaxles.fi.
@@ -351316,7 +351380,6 @@ skifun.fi.
 skigo.fi.
 skiguard.fi.
 skihouse.fi.
-skihub.fi.
 skiibox.fi.
 skiimpact.fi.
 skiing.fi.
@@ -352040,7 +352103,6 @@ skycargo.fi.
 skyclean.fi.
 skycloud.fi.
 skycode.fi.
-skycold.fi.
 skycon.fi.
 skycop.fi.
 skycopter.fi.
@@ -354746,6 +354808,7 @@ softman.fi.
 softman1.fi.
 softmanai.fi.
 softmatic.fi.
+softmave.fi.
 softmec.fi.
 softmedic.fi.
 softmicrohelp.fi.
@@ -356771,7 +356834,6 @@ soppamajuri.fi.
 soppamiehet.fi.
 soppamies.fi.
 soppariseppa.fi.
-soppateatteri.fi.
 soppatykit.fi.
 soppatykki.fi.
 soppec.fi.
@@ -359148,8 +359210,10 @@ sponsorsmill-store.fi.
 sponsorstrategi.fi.
 sponsorsuite.fi.
 sponsorunited.fi.
+sponssaa-mua.fi.
 sponssaa.fi.
 sponssaamo.fi.
+sponssaamua.fi.
 sponssi.fi.
 sponssiboksi.fi.
 sponssiboxi.fi.
@@ -359187,6 +359251,7 @@ sport-data-platform.fi.
 sport-lehti.fi.
 sport-outlet.fi.
 sport-shopen.fi.
+sport-team-pages.fi.
 sport-techglobal.fi.
 sport-thieme.fi.
 sport-tiedje.fi.
@@ -360947,6 +361012,7 @@ staleks-finland.fi.
 staleks.fi.
 stalelement.fi.
 stalevo.fi.
+stalhasten.fi.
 stalker.fi.
 stalkilta.fi.
 stalkkari.fi.
@@ -362107,7 +362173,6 @@ steppi.fi.
 steppie.fi.
 steppinja.fi.
 stepry.fi.
-stepsevent.fi.
 stepsit.fi.
 stepsta.fi.
 stepstone.fi.
@@ -363179,6 +363244,7 @@ stratsys.fi.
 stratu.fi.
 straumann.fi.
 straumanngroup.fi.
+straumr.fi.
 strauss.fi.
 strava.fi.
 stravent.fi.
@@ -364172,6 +364238,7 @@ studiomp.fi.
 studiompra.fi.
 studiomschmid.fi.
 studiomsmuhis.fi.
+studiomsmuhishelsinki.fi.
 studiomuoto.fi.
 studiomuru.fi.
 studiomuse.fi.
@@ -364381,7 +364448,6 @@ studioupee.fi.
 studiousva.fi.
 studiovalena.fi.
 studiovalentina.fi.
-studiovalentino.fi.
 studiovalko.fi.
 studiovalkyria.fi.
 studiovalloittava.fi.
@@ -366388,6 +366454,7 @@ suomalaisentyonliitto.fi.
 suomalaisenviskinpaiva.fi.
 suomalaiset-kasinot.fi.
 suomalaiset-kasinotfi.fi.
+suomalaiset-rahapelit.fi.
 suomalaisetespanjassa.fi.
 suomalaisethammasproteesit.fi.
 suomalaisethistoriapaivat.fi.
@@ -366671,6 +366738,7 @@ suomenenergiatehostaja.fi.
 suomenenglanninopettajat.fi.
 suomenennatys.fi.
 suomenensiapukoulutus.fi.
+suomenensiapukurssit.fi.
 suomenensiasunnot.fi.
 suomenepoksilattiat.fi.
 suomenerataito.fi.
@@ -367187,6 +367255,7 @@ suomenlakiperinta.fi.
 suomenlakipuhelin.fi.
 suomenlakitalo.fi.
 suomenlakitoimitus.fi.
+suomenlakiturva.fi.
 suomenlamello.fi.
 suomenlamina.fi.
 suomenlampokuvaus.fi.
@@ -368650,6 +368719,7 @@ suomisaunoo.fi.
 suomiscene.fi.
 suomiseina.fi.
 suomiseksi.fi.
+suomiseksichat.fi.
 suomiseksix.fi.
 suomiselection.fi.
 suomisenautohuolto.fi.
@@ -368942,6 +369012,7 @@ suortti.fi.
 suortuva.fi.
 suosaarentila.fi.
 suoseura.fi.
+suosi.fi.
 suosikit.fi.
 suosikki.fi.
 suosikkilahjat.fi.
@@ -369599,6 +369670,7 @@ surfacehub.fi.
 surfaceprep.fi.
 surfaces.fi.
 surfacestudio.fi.
+surfandmind.fi.
 surfcenter.fi.
 surfclub.fi.
 surfelle.fi.
@@ -369855,7 +369927,6 @@ susova.fi.
 sussie.fi.
 sussisbageri.fi.
 sussispotteri.fi.
-sussuerkinheimo.fi.
 sust.fi.
 susta.fi.
 sustageable.fi.
@@ -370817,7 +370888,6 @@ svidd.fi.
 svidjaslott.fi.
 svie.fi.
 svinco.fi.
-sving.fi.
 svingi.fi.
 svingitalli.fi.
 svinhufvud.fi.
@@ -370919,6 +370989,7 @@ svvk.fi.
 svvok.fi.
 svvt.fi.
 svworks.fi.
+svxsuomi.fi.
 svy.fi.
 svyl.fi.
 svyry.fi.
@@ -371007,7 +371078,6 @@ swatten.fi.
 sway.fi.
 swayspice.fi.
 swaytec.fi.
-swazo.fi.
 swbusiness.fi.
 swcfinland.fi.
 swconsulting.fi.
@@ -371446,6 +371516,7 @@ sydamellamariel.fi.
 sydamelle.fi.
 sydamellinen.fi.
 sydamellinensointu.fi.
+sydamellisemmin.fi.
 sydamenalkemia.fi.
 sydamenasia.fi.
 sydameni.fi.
@@ -372393,7 +372464,6 @@ t-focus.fi.
 t-group.fi.
 t-hammas.fi.
 t-kartor.fi.
-t-kioski.fi.
 t-klubi.fi.
 t-lehti.fi.
 t-lh.fi.
@@ -374975,6 +375045,7 @@ taksipalveluylinen.fi.
 taksiparoni.fi.
 taksipekkarinen.fi.
 taksipello.fi.
+taksiperille.fi.
 taksipeussa.fi.
 taksipieksamaki.fi.
 taksipietarsaari.fi.
@@ -376322,6 +376393,7 @@ taloverkko.fi.
 taloverkot.fi.
 talovertailu.fi.
 talovex.fi.
+taloviisari.fi.
 talovire.fi.
 talovirta.fi.
 talovisio.fi.
@@ -378303,7 +378375,6 @@ tapiolankamarikuoro.fi.
 tapiolankeilahalli.fi.
 tapiolankeskus.fi.
 tapiolankilta.fi.
-tapiolanklubi.fi.
 tapiolankoiratrimmaamo.fi.
 tapiolankone.fi.
 tapiolankoulu.fi.
@@ -382427,6 +382498,7 @@ tekoalykuvapankki.fi.
 tekoalylabra.fi.
 tekoalylaki.fi.
 tekoalylisenssi.fi.
+tekoalylla.fi.
 tekoalylukutaito.fi.
 tekoalymaikka.fi.
 tekoalymainontaa.fi.
@@ -383397,7 +383469,6 @@ tenlen.fi.
 tenlook.fi.
 tenmaku.fi.
 tenmed.fi.
-tenmonkeysdigital.fi.
 tennant.fi.
 tennari.fi.
 tennio.fi.
@@ -383520,6 +383591,7 @@ tenttiarkisto.fi.
 tentum.fi.
 tentzing.fi.
 tenuohous.fi.
+tenure.fi.
 tenuro.fi.
 tenutex.fi.
 tenux.fi.
@@ -384252,7 +384324,6 @@ terapiatuuri.fi.
 terapiatyo.fi.
 terapiatyrni.fi.
 terapiaunisonum.fi.
-terapiavalkeneva.fi.
 terapiavalmennus.fi.
 terapiavartti.fi.
 terapiavayla.fi.
@@ -384517,6 +384588,7 @@ terhirosti.fi.
 terhiskaniakos.fi.
 terhispaperart.fi.
 terhisvanstrom.fi.
+terhitammi.fi.
 terhitec.fi.
 terhivuoristo.fi.
 terhivw.fi.
@@ -388179,6 +388251,7 @@ tietolokero.fi.
 tietoma.fi.
 tietomaa.fi.
 tietomahti.fi.
+tietomalli.fi.
 tietomallikoordinaattori.fi.
 tietomallinnus.fi.
 tietoman.fi.
@@ -392726,6 +392799,7 @@ tnnetmark.fi.
 tnnettesti.fi.
 tnngroup.fi.
 tnnky.fi.
+tnova.fi.
 tnoy.fi.
 tnp-install.fi.
 tnp-nostot.fi.
@@ -394496,6 +394570,7 @@ toolstationextra.fi.
 toolstec.fi.
 toolstore.fi.
 toolstoregigant.fi.
+toolsx.fi.
 toolsy.fi.
 tooltampere.fi.
 toolteam.fi.
@@ -394521,6 +394596,7 @@ toooldtodieyoung.fi.
 tooranvalo.fi.
 toorshahzada.fi.
 toorx.fi.
+toosatv.fi.
 toosilanelainlaakari.fi.
 toot.fi.
 tootautokorjaamo.fi.
@@ -395817,11 +395893,13 @@ towbike.fi.
 towelcrew.fi.
 towelponcho.fi.
 towelshop.fi.
+tower-casino.fi.
 tower-dash.fi.
 tower.fi.
 tower19.fi.
 towerbistro.fi.
 towerbus.fi.
+towercasino-fi.fi.
 towerhelsinki.fi.
 towerline.fi.
 towerone.fi.
@@ -396360,6 +396438,7 @@ tradingcard.fi.
 tradinghouse.fi.
 tradingoutlet.fi.
 tradingsupport.fi.
+tradingvaittinen.fi.
 tradingview.fi.
 traditio.fi.
 tradition.fi.
@@ -396634,7 +396713,6 @@ traktorimatot.fi.
 traktorimies.fi.
 traktorimuseo.fi.
 traktorimyynti.fi.
-traktorin.fi.
 traktorinrengas.fi.
 traktorinrenkaat.fi.
 traktorinvanne.fi.
@@ -398142,6 +398220,8 @@ trix.fi.
 trixgames.fi.
 trixie.fi.
 trixietogether.fi.
+trixino-fi.fi.
+trixinocasino-fi.fi.
 trixinocasino.fi.
 trixinokasino.fi.
 trixsixty.fi.
@@ -398434,7 +398514,6 @@ truckway.fi.
 trucof.fi.
 trucon.fi.
 tructor.fi.
-trud.fi.
 trudeau.fi.
 trudyofsweden.fi.
 true-hockey.fi.
@@ -398678,6 +398757,7 @@ trustme.fi.
 trustmedical.fi.
 trustnetoy.fi.
 trustnetwork.fi.
+trustnode.fi.
 trustnow.fi.
 trustor.fi.
 trustpartners.fi.
@@ -398842,7 +398922,6 @@ tsavo.fi.
 tsb-personnel.fi.
 tsb.fi.
 tsbuukit.fi.
-tsc-europe.fi.
 tsc.fi.
 tscautomation.fi.
 tscdesignz.fi.
@@ -400832,7 +400911,6 @@ tunnelinja.fi.
 tunnelinkenka.fi.
 tunnelinkukka.fi.
 tunnelma.fi.
-tunnelmaevent.fi.
 tunnelmaindeksi.fi.
 tunnelmakartanot.fi.
 tunnelmalaiturit.fi.
@@ -401014,6 +401092,7 @@ tuntilista.fi.
 tuntilukkari.fi.
 tuntinetti.fi.
 tuntipakki.fi.
+tuntipalkka.fi.
 tuntisahko.fi.
 tuntiseuranta.fi.
 tuntisi.fi.
@@ -403994,7 +404073,6 @@ tuvet.fi.
 tuvex.fi.
 tuvilex.fi.
 tuvio.fi.
-tuvnord.fi.
 tuworks.fi.
 tux.fi.
 tuxedo.fi.
@@ -405394,6 +405472,7 @@ tyttis.fi.
 tyttisbakery.fi.
 tyttisiironen.fi.
 tytto.fi.
+tyttojenjuttu.fi.
 tyttojentalo.fi.
 tyttojentalojkl.fi.
 tyttojentupa.fi.
@@ -406393,7 +406472,9 @@ ulkoiluvaruste.fi.
 ulkoista.fi.
 ulkoistalaskutus.fi.
 ulkoistamisratkaisut.fi.
+ulkoistettuasiakaspalvelu.fi.
 ulkoistettumarkkinointi.fi.
+ulkoistettumyynti.fi.
 ulkokalusteet.fi.
 ulkokalustevuokraamo.fi.
 ulkokananmunat.fi.
@@ -408431,11 +408512,13 @@ ura-akatemia.fi.
 ura-apuri.fi.
 ura-arkkitehdit.fi.
 ura-arkkitehti.fi.
+ura-askel.fi.
 ura-pt.fi.
 ura2.fi.
 ura24.fi.
 ura247.fi.
 uraamo.fi.
+uraaskel.fi.
 uraauki.fi.
 urabasket.fi.
 uraboosteri.fi.
@@ -409945,6 +410028,7 @@ uudetkasinot.fi.
 uudetkasinot1.fi.
 uudetkasinot2025.fi.
 uudetkasinot2026.fi.
+uudetkasinotfi.fi.
 uudetkasinotilmanlisenssia.fi.
 uudetkasinotilmanrekisteroitymista.fi.
 uudetklassikot.fi.
@@ -410898,6 +410982,10 @@ vaaleanpunainentammi.fi.
 vaaleanpunaista.fi.
 vaaleeks.fi.
 vaaleeksi.fi.
+vaaleekskumppanit.fi.
+vaaleeksmyynti.fi.
+vaaleekspartnerit.fi.
+vaaleeksyhteistyo.fi.
 vaalialusta.fi.
 vaalianalyysi.fi.
 vaaliareena.fi.
@@ -412838,6 +412926,7 @@ valihela.fi.
 valihelaoy.fi.
 valijoenmy.fi.
 valikangas.fi.
+valikangasoy.fi.
 valikeikkaoy.fi.
 valikko.fi.
 valikoskenlomamokit.fi.
@@ -413493,7 +413582,6 @@ valmentaja-akatemia.fi.
 valmentaja-tarja.fi.
 valmentaja.fi.
 valmentajaeeva.fi.
-valmentajahaku.fi.
 valmentajakatri.fi.
 valmentajakoulutus.fi.
 valmentajamarko.fi.
@@ -414405,6 +414493,7 @@ valttori.fi.
 valtu.fi.
 valtus.fi.
 valtusinterim.fi.
+valtuu.fi.
 valtuuskunta.fi.
 valtuusto.fi.
 valtuustokone.fi.
@@ -415912,7 +416001,6 @@ varana.fi.
 varanasi.fi.
 varanelio.fi.
 varanger.fi.
-varangi.fi.
 varangian.fi.
 varangianoutfitters.fi.
 varaniemi.fi.
@@ -417610,6 +417698,7 @@ vaultdoc.fi.
 vaultdock.fi.
 vaultdocker.fi.
 vaultdrive.fi.
+vaulted.fi.
 vaultedge.fi.
 vaultest.fi.
 vaulthost.fi.
@@ -418081,6 +418170,7 @@ veerakautto.fi.
 veerakeranen.fi.
 veerakononen.fi.
 veeramanninen.fi.
+veeramyllyniemi.fi.
 veeranarjenapu.fi.
 veeranheina.fi.
 veeraniskanen.fi.
@@ -423633,6 +423723,7 @@ viidakkokauppa.fi.
 viidakkolintu.fi.
 viidakkomonitor.fi.
 viidakkoprcloud.fi.
+viidakkorumpu.fi.
 viidakkostore.fi.
 viidakkosusi.fi.
 viidakkotohtori.fi.
@@ -423807,6 +423898,7 @@ viikkokuningattarena.fi.
 viikkolehti.fi.
 viikkomarkkinat.fi.
 viikkomessu.fi.
+viikkonumerot.fi.
 viikkopk.fi.
 viikkoporssi.fi.
 viikkoprint.fi.
@@ -425143,6 +425235,7 @@ villapicea.fi.
 villapikkujalo.fi.
 villapinea.fi.
 villapipariina.fi.
+villapiparila.fi.
 villapirtti.fi.
 villaplus.fi.
 villapoesia.fi.
@@ -426293,7 +426386,6 @@ vipoy.fi.
 vipp.fi.
 vippaaja.fi.
 vippaajat.fi.
-vippari.fi.
 vipperikauppa.fi.
 vippet.fi.
 vippi-laina.fi.
@@ -428463,6 +428555,7 @@ vitrolab.fi.
 vitrulanakatemia.fi.
 vitrum.fi.
 vits.fi.
+vitsatohtori.fi.
 vitsi.fi.
 vitsienvitsi.fi.
 vitsienvitsit.fi.
@@ -428700,6 +428793,7 @@ vivoo.fi.
 vivora.fi.
 vivore.fi.
 vivosos.fi.
+vivostudios.fi.
 vivotech.fi.
 vivovisions.fi.
 vivsolutions.fi.
@@ -429922,6 +430016,7 @@ voltek.fi.
 voltel.fi.
 volter.fi.
 voltera.fi.
+volterapowersolutions.fi.
 volteria.fi.
 volteriapowersolutions.fi.
 volterino.fi.
@@ -430880,6 +430975,7 @@ vt7.fi.
 vt99.fi.
 vta-intranet.fi.
 vta-tekniikka.fi.
+vta-test.fi.
 vta.fi.
 vtac-finland.fi.
 vtac-suomi.fi.
@@ -431509,7 +431605,6 @@ vuokramesta.fi.
 vuokramestarit.fi.
 vuokramiehet.fi.
 vuokramies.fi.
-vuokramies24.fi.
 vuokramokille.fi.
 vuokramokit.fi.
 vuokramokkiisosyote.fi.
@@ -433030,6 +433125,7 @@ wanhavirkailija.fi.
 wanhawalimo.fi.
 wanhawarikko.fi.
 wanhawasacatering.fi.
+wanhawentinin.fi.
 wanhawiljami.fi.
 wanhawoima.fi.
 wanhawpk.fi.
@@ -434563,7 +434659,6 @@ wehostfinland.fi.
 wehunt.fi.
 wehype.fi.
 weicomm.fi.
-weide.fi.
 weidemann.fi.
 weidmuller.fi.
 weigel.fi.
@@ -435889,6 +435984,7 @@ widescope.fi.
 wideskog.fi.
 widetek.fi.
 widetoes.fi.
+widetoesab.fi.
 wideview.fi.
 wideworldimporters.fi.
 widex.fi.
@@ -437885,7 +437981,6 @@ wordfast.fi.
 wordfinder.fi.
 wordfox.fi.
 wordly.fi.
-wordpress-hakukoneoptimointi.fi.
 wordpress-kotisivut-yritykselle.fi.
 wordpress-koulutus.fi.
 wordpress-palvelu.fi.
@@ -440029,8 +440124,6 @@ xn--elinope-6wa.fi.
 xn--elinosteopaatit-1kb.fi.
 xn--elinosteopaatti-1kb.fi.
 xn--elinosteopatia-6hb.fi.
-xn--elinpelastus-hcb.fi.
-xn--elinpelastustalo-wnb.fi.
 xn--elinpolitiikka-6hb.fi.
 xn--elinruoka-w2a.fi.
 xn--elinsairaala-hcb.fi.
@@ -440087,6 +440180,7 @@ xn--elketutka-w2a.fi.
 xn--elkeuudistus-hcb.fi.
 xn--elkevakuutukset-1kb.fi.
 xn--elkevakuutus-hcb.fi.
+xn--elkevakuutuskuntoon-hwb.fi.
 xn--elkevertaus-m8a.fi.
 xn--elkjp-mua.fi.
 xn--elkkeellealanyassa-mtb.fi.
@@ -440581,6 +440675,7 @@ xn--flktwoods-w2a.fi.
 xn--flmsbana-b0a.fi.
 xn--flppitaulu-r5a.fi.
 xn--flr-tna.fi.
+xn--flra-roa.fi.
 xn--fmi-qla.fi.
 xn--fn-fka.fi.
 xn--fni-snaa.fi.
@@ -446110,7 +446205,6 @@ xn--mymennn-bxaa8o.fi.
 xn--mynmenapteekki-7hbb.fi.
 xn--mynmki-duab.fi.
 xn--mynteisyys-fcb.fi.
-xn--mypyhjrviseutu-9hbb.fi.
 xn--myri-koa.fi.
 xn--myrkytnsiivous-0pb.fi.
 xn--myrskylnsavu-mcb.fi.
@@ -446819,6 +446913,7 @@ xn--peltisst-4zac.fi.
 xn--peltity-g1a.fi.
 xn--peltomki-5za.fi.
 xn--peltopivt-02ac.fi.
+xn--peltos-guaa.fi.
 xn--pelttarinseudunmetsstysseura-onc.fi.
 xn--pemakiinteistt-7pb.fi.
 xn--penkinplliset-hfba.fi.
@@ -447381,7 +447476,6 @@ xn--ps-sst-euaa8n.fi.
 xn--ps-wia4e.fi.
 xn--psiinen-5waac.fi.
 xn--psiisradio-q5aac.fi.
-xn--psiisvaellus-gcbac.fi.
 xn--psk-ula.fi.
 xn--pskynpes-0zaah.fi.
 xn--pskyslaakso-l8aa.fi.
@@ -448106,6 +448200,7 @@ xn--sapphirekyn-v8a.fi.
 xn--sarabckmo-z2a.fi.
 xn--sarajrvi-4za.fi.
 xn--sarileinonenkalevalainenjsenkorjaaja-pbd.fi.
+xn--sarjattnn-12aba.fi.
 xn--sasema-buaa.fi.
 xn--satakunnanyrittj-9nbb.fi.
 xn--satakunnanyrittjt-4qbb.fi.
@@ -449711,6 +449806,7 @@ xn--taskumkki-57a.fi.
 xn--tasoitetyt-mcb.fi.
 xn--tasoitetytturku-htb.fi.
 xn--tasoitetyturku-3pb.fi.
+xn--tassunjlki-w5a.fi.
 xn--taukokrry-02a.fi.
 xn--taukokrryt-v5a.fi.
 xn--tavaralhetit-mcb.fi.
@@ -451536,6 +451632,7 @@ xn--vriterapia-q5a.fi.
 xn--vritukku-0za.fi.
 xn--vrityskirjat-gcb.fi.
 xn--vrityskortti-gcb.fi.
+xn--vrityskuvat-l8a.fi.
 xn--vriv-loacb.fi.
 xn--vriveljet-v2a.fi.
 xn--vrixi-gra.fi.
@@ -451628,6 +451725,7 @@ xn--vyri-5qa.fi.
 xn--vyruusurokote-jmb.fi.
 xn--wasaborginnkkeskus-vtb57a.fi.
 xn--wasasngargille-pib.fi.
+xn--wastmki-9wa.fi.
 xn--webastolmmitys-dib.fi.
 xn--weberinhyv-z5a.fi.
 xn--wernersderstrm-1pbg.fi.
@@ -455062,6 +455160,7 @@ yritysliikunta.fi.
 yritysliittyma.fi.
 yrityslinja.fi.
 yritysliput.fi.
+yrityslista.fi.
 yrityslistat.fi.
 yrityslohja.fi.
 yrityslokero.fi.
